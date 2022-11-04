@@ -1,0 +1,6 @@
+pandas
+matplotlib
+isort
+black
+mypy
+flake8
